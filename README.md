@@ -1,6 +1,6 @@
 # Turkish-Emotion-Analysis
 
-In this work, emotion recognition system is implemented in English. Given text can be classified into 6 categories: anger, fear, sadness, joy,  disgust, surprise.
+In this work, emotion recognition system is implemented in Turkish. Given text can be classified into 6 categories: anger, fear, sadness, joy,  disgust, surprise.
 
 This model is fine-tuned version of: https://huggingface.co/maymuni/bert-base-turkish-cased-emotion-analysis
 
